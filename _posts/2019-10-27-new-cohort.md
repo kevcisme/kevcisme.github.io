@@ -20,3 +20,11 @@ I'll start with Linear Regression, then progress into Decision Trees, then into 
 This post will be edited, so that it serves as a sort of table of contents.
 
 Check back soon!
+
+- Linear Regression
+- Decision Trees
+- KNN
+- Logistic Regression
+- Random Forests
+- Multinomial Naive Bayes
+
