@@ -10,6 +10,8 @@ There are drawbacks to the system, and one of the drawbacks is that given the sh
 |Pros|Cons|
 |---|---|
 |Students learn concepts that would have taken years to uncover, in a short span| The onus is then on students to go deep, and many won't|
+|---|---|
+
 
 I'm going to work through a series of posts describing at a deeper level, number of machine learning models.
 
