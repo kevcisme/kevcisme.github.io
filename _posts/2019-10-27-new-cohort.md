@@ -10,7 +10,7 @@ There are drawbacks to the system, and one of the drawbacks is that given the sh
 |Pros|Cons|
 |---|---|
 |Students learn concepts that would have taken years to uncover, in a short span| The onus is then on students to go deep, and many won't|
-|---|---|
+|By learning more difficult concepts, students pick up the less mentally challenging by osmosis| Presenting Material across [Several Learning Styles](https://www.learndash.com/7-major-learning-styles-which-one-is-you/) is non-trivial.|
 
 
 I'm going to work through a series of posts describing at a deeper level, number of machine learning models.
