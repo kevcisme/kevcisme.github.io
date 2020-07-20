@@ -1,5 +1,3 @@
-# A New Cohort
-
 Tomorrow begins a new cohort in the part-time data science class I teach at General Assembly. 
 
 I've been thinking a lot about pedagogy. This bootcamp thing is fantastic. Because of a bootcamp, I have a career, I have a side-hustle in teaching, and I have a group of [top-notch friends.](https://open.spotify.com/track/3sp3wHVuQ3CRtsZykHDtKq?si=gViW4zKfTvmFKN3jRUHBlQ)
