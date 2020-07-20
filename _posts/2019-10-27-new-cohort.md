@@ -1,6 +1,6 @@
-Tomorrow begins a new cohort in the part-time data science class I teach at General Assembly. 
+Tomorrow begins a new cohort in the part-time data science class I teach at General Assembly. This bootcamp thing is fantastic. Note that these views are mine, not necessarily those of Generaly Assembly.
 
-I've been thinking a lot about pedagogy. This bootcamp thing is fantastic. Because of a bootcamp, I have a career, I have a side-hustle in teaching, and I have a group of [top-notch friends.](https://open.spotify.com/track/3sp3wHVuQ3CRtsZykHDtKq?si=gViW4zKfTvmFKN3jRUHBlQ)
+Because of a bootcamp, I have a career, I have a side-hustle in teaching, and I have a group of [top-notch friends.](https://open.spotify.com/track/3sp3wHVuQ3CRtsZykHDtKq?si=gViW4zKfTvmFKN3jRUHBlQ)
 But I also have been thinking about pedagogy.
 
 There are drawbacks to the system, and one of the drawbacks is that given the short amount of time together, we take a path of going wide, rather than deep.
