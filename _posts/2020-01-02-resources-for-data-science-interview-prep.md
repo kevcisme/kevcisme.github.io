@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Company Research for Those who go DEEP
+title: Resources for Data Science Interviews
 ---
 
 On whence someone asked me "now that I am finished with class, what books should I read and videos should I watch in order to learn more about this field?" and I answered "get ready to drink from the firehose."
