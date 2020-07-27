@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Woot to Boot
+title: Some Papers
 ---
 
 Hello whirrled!
