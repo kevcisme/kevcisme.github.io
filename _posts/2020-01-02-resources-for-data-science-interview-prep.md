@@ -14,6 +14,19 @@ On whence someone asked me "now that I am finished with class, what books should
 
 Linear Algebra
 
+- Udacity's Linear Algebra Refresher
+- YouTube:
+    1. MIT 18.06 Linear Algebra with Gilbert Strang
+    2. MIT 18.S096 Topics in Math… Finance
+    3. Econometrics 421
+- Books:
+    1. No B.S. Guide to Linear Algebra
+- FastAi
+   1. Computational Linear Algebra Course [https://github.com/fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
+
+
+
+
 Python Coding
 
 R Coding

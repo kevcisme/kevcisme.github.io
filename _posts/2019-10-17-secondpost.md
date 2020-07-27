@@ -3,8 +3,6 @@ layout: post
 title: Some Papers
 ---
 
-Hello whirrled!
-
 I've been reading some really great papers lately. I am especially curious about the practical applications of abstractive text summarization. 
 
 [This paper](https://arxiv.org/pdf/1909.08837.pdf). The abstract reads:
