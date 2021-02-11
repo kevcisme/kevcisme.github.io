@@ -89,3 +89,36 @@ def linear_regression(dataframe, ind_var, dep_var):
 
     return prediction
   ```
+
+
+## Metrics
+How far off is our model?
+
+Great question! We need to know how far away from ground truth our model is.
+It's most helpful if this value represents our error in one of two ways:
+
+1. How far off are all of our predictions in the aggregate?
+2. Given a prediction, how far off will our model be?
+
+Let's start with the first.
+
+Remember how Gauss called his model "least squares?" The intuition for our aggregate metric is found in the title. We want to create a model whose squared error is the least or lowest amount possible.
+
+We'll take the difference between our predicted value and the actual value, and square it. Then, we'll take the mean of all of these values. Why do we square it? Because we're masochists who love to see our predictions fail by a lot.
+
+```
+def mse(actual_value, predicted_value):
+    squared_errors = [(predicted_value[i] - actual_value[i])**2 for i in range(len(predicted_value))]
+
+    return sum(squared_errors) / len(squared_errors)
+
+```
+
+## Optimizing
+Now that we've gained an intuition on LR and how we can calculate how far off our model is, we can explore ways to optimize. Here, optimization takes two forms:
+1. Computational optimization:
+  - What is the fastest speed that we can find those Beta values?
+  - What is the least memory intensive way to compute?
+  - How do we ensure accuracy of our computations?
+  - Can we scale the computing operations out? Can we parallelize any of the computations?
+2. Can we iteratively optimize our Beta values such that we end up with our best possible model, during the model training process?
