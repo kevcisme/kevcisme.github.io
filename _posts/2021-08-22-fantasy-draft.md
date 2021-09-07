@@ -3,7 +3,9 @@ layout: post
 title: must win ... can analytics save my ff team?
 ---
 
-I'll begin this post with a vulnerable statement about a topic which has almost 0 consequence on life and whose weight is only felt by me: I cannot figure out how to win at fantasy football.  I've been playing fantasy football for at least 20 years now. In all that time, I've won the championship only once, and had a handful of 2nd and 3rd place wins. I'm more of a basketball person, and I think what's staved off my utter embarassment is a profound naivety about how to win (i.e. "if I never look up how to win, then I never put any effort into it and I'm not culpable") and some sort of mental gymnastics wherein I reason that I'm more of a basketball person. 
+I'll begin this post with a vulnerable statement about a topic which has almost 0 consequence on life and whose weight is only felt by me: I cannot figure out how to win at fantasy football.  
+
+I've been playing fantasy football for at least 20 years now. In all that time, I've won the championship only once, and had a handful of 2nd and 3rd place wins. I'm more of a basketball person, and I think what's staved off my utter embarassment is a profound naivety about how to win (i.e. "if I never look up how to win, then I never put any effort into it and I'm not culpable") and some sort of mental gymnastics wherein I reason that I'm more of a basketball person. 
 
 After 2 decades though, I'd expect my intuition would have increased, and I'd subconsciously be making great moves as a manager. 
 
